@@ -181,9 +181,9 @@ Open `assignment.ipynb` and work through the four questions. The notebook provid
 
 Before submitting, verify you've created:
 
-- [ ] `output/q1_matplotlib_plots.png` - matplotlib fundamentals
-- [ ] `output/q1_multi_panel.png` - multi-panel visualization
-- [ ] `output/q2_seaborn_plots.png` - seaborn statistical plots
-- [ ] `output/q2_correlation_heatmap.png` - correlation analysis
-- [ ] `output/q3_pandas_plots.png` - pandas plotting
-- [ ] `output/q3_data_overview.png` - data exploration
+- [X] `output/q1_matplotlib_plots.png` - matplotlib fundamentals
+- [X] `output/q1_multi_panel.png` - multi-panel visualization
+- [X] `output/q2_seaborn_plots.png` - seaborn statistical plots
+- [X] `output/q2_correlation_heatmap.png` - correlation analysis
+- [X] `output/q3_pandas_plots.png` - pandas plotting
+- [X] `output/q3_data_overview.png` - data exploration
